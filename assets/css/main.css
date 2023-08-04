@@ -453,14 +453,11 @@ footer.sticky-bottom {
     border-color: var(--global-divider-color)
 }
 
-/*.cv .card .list-group-item .badge {
+.cv .card .list-group-item .badge {
     color: var(--global-card-bg-color) !important;
     background-color: var(--global-theme-color) !important
-}*/
-.cv .card .list-group-item .badge {
-    color: var(--global-theme-color) !important;
-    background-color: var(--global-theme-color) !important
 }
+
 .table-cv-map {
     background-color: transparent;
     border: 0;
